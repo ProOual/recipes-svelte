@@ -1,3 +1,14 @@
+
+// Import des styles de base
+@import 'tailwindcss/base';
+
+// Import des composants
+@import 'tailwindcss/components';
+
+// Import des utilitaires
+@import 'tailwindcss/utilities';
+
+
 @font-face {
     font-family: 'MS-Black';
     src: url('/fonts/Montserrat-Black.ttf') format('truetype');
